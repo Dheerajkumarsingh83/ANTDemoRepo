@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="libraries/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="libraries/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="libraries/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="libraries/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="libraries/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="libraries/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="libraries/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="libraries/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="libraries/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="libraries/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="libraries/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="libraries/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="libraries/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
